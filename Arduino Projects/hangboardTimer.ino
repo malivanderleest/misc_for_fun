@@ -1,4 +1,3 @@
-Upload this code to your arduino
 /*
   Stopwatch
   Run stopwatch with arduino.
