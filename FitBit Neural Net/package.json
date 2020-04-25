@@ -1,0 +1,29 @@
+{
+  "fitbit": {
+    "appUUID": "70abce2d-a850-40be-88be-bc3bbc80ce7a",
+    "appType": "app",
+    "appDisplayName": "Notes",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffeb3b",
+    "requestedPermissions": [
+      "access_internet",
+      "access_location",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Notes"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

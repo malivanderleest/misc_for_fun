@@ -1,0 +1,518 @@
+
+<svg viewport-fill="black">
+  
+  <svg>
+
+  <rect fill="white" x="40" y="10" width="200" height="200" pointer-events="hidden" />
+  </svg>
+ 
+  <g id="group">
+  
+  <rect id="1" x="50" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="2" x="50" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="3" x="50" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="4" x="50" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="5" x="50" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="6" x="50" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="7" x="50" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="8" x="50" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="9" x="50" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="10" x="50" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="11" x="50" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="12" x="50" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  
+  
+  <rect id="13" x="65" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="14" x="65" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="15" x="65" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="16" x="65" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="17" x="65" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="18" x="65" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="19" x="65" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="20" x="65" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="21" x="65" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="22" x="65" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="23" x="65" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="24" x="65" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  
+  <rect id="25" x="80" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="26" x="80" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="27" x="80" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="28" x="80" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="29" x="80" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="30" x="80" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="31" x="80" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="32" x="80" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="33" x="80" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="34" x="80" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="35" x="80" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="36" x="80" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  
+  <rect id="37" x="95" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="38" x="95" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="39" x="95" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="40" x="95" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="41" x="95" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="42" x="95" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="43" x="95" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="44" x="95" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="45" x="95" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="46" x="95" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="47" x="95" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="48" x="95" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  
+  <rect id="49" x="110" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="50" x="110" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="51" x="110" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="52" x="110" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="53" x="110"x="110" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="54" x="110" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="55" x="110" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="56" x="110" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="57" x="110" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="58" x="110" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="59" x="110" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="60" x="110" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  
+  <rect id="61" x="125" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="62" x="125" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="63" x="125" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="64" x="125" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="65" x="125" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="66" x="125" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="67" x="125" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="68" x="125" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="69" x="125" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="70" x="125" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="71" x="125" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="72" x="125" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  
+  <rect id="73" x="140" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="74" x="140" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="75" x="140" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="76" x="140" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="77" x="140" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="78" x="140" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="79" x="140" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="80" x="140" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="81" x="140" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="82" x="140" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="83" x="140" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="84" x="140" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+ 
+  <rect id="85" x="155" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="86" x="155" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="87" x="155" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="88" x="155" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="89" x="155" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="90" x="155" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="91" x="155" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="92" x="155" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="93" x="155" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="94" x="155" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="95" x="155" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="96" x="155" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  
+  <rect id="97" x="170" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="98" x="170" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="99" x="170" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="100" x="170" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="101" x="170" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="102" x="170" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="103" x="170" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="104" x="170" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="105" x="170" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="106" x="170" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="107" x="170" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="108" x="170" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+ 
+   
+  <rect id="109" x="185" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="110" x="185" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="111" x="185" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="112" x="185" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="113" x="185" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="114" x="185" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="115" x="185" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="116" x="185" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="117" x="185" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="118" x="185" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="119" x="185" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="120" x="185" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+   
+  <rect id="121" x="200" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="122" x="200" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="123" x="200" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="124" x="200" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="125" x="200" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="126" x="200" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="127" x="200" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="128" x="200" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="129" x="200" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="130" x="200" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="131" x="200" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="132" x="200" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  
+  <rect id="133" x="215" y="20" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="134" x="215" y="35" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="135" x="215" y="50" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="136" x="215" y="65" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="137" x="215" y="80" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="138" x="215" y="95" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="139" x="215" y="110" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="140" x="215" y="125" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="141" x="215" y="140" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="142" x="215" y="155" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="143" x="215" y="170" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  <rect id="144" x="215" y="185" width="15" height="15" fill="white" pointer-events="visible" >
+  <animate attributeName="fill" begin="mouseover" from="black" to="black" dur="2" final="restore" />
+  </rect>
+  </g>
+
+<svg>
+  
+<svg>
+  <use id="new" href="#square-button" x="250" y="12" width="90" height="30" fill="mediumorchid">
+    <set href="#text" attributeName="font-size" to="22" />
+    <set href="#text" attributeName="text-buffer" to="New" />
+  </use>
+</svg>
+<svg>
+  <use id="next" href="#square-button" x="250" y="67" width="90" height="30" fill="teal">
+    <set href="#text" attributeName="font-size" to="22" />
+   <set href="#text" attributeName="text-buffer" to="Done" />
+  </use>
+</svg>
+<svg>
+  <use id="delete" href="#square-button" x="250" y="122" width="90" height="30" fill="gold">
+    <set href="#text" attributeName="font-size" to="22" />
+   <set href="#text" attributeName="text-buffer" to="Delete" />
+  </use>
+</svg>
+<svg>
+  <use id="save" href="#square-button" x="250" y="177" width="90" height="30" fill="fb-green">
+   <set href="#text" attributeName="font-size" to="22" />
+    <set href="#text" attributeName="text-buffer" to="Save" />
+  </use>
+</svg>
+  
+  
+  <text id="message" fill="white" x="10" y="230" font-size="14" text-length="100"></text>
+ 
+  
+</svg>  
+  
+  <svg id="my-popup" display="none">
+
+  <!-- Black background -->
+  <rect id="colorChange" class="full-size" fill="fb-black" />
+
+  <!-- Title and text -->
+  <text id="note1" fill="white" x="10" y="20" font-size="20" text-length="100"></text>
+  <text id="note2" fill="white" x="10" y="60" font-size="20" text-length="100"></text>
+  <text id="note3" fill="white" x="10" y="100" font-size="20" text-length="100"></text>
+  <text id="note4" fill="white" x="10" y="140" font-size="20" text-length="100"></text>
+  <text id="note5" fill="white" x="10" y="190" font-size="20" text-length="100"></text>
+
+  <!-- Left button -->
+  <use id="btnLeft" class="dialog-half-button-middle" href="#square-button-neutral" y="80%">
+    <set href="#text" attributeName="text-buffer" to="Go back" />
+    <set href="#text" attributeName="text-anchor" to="middle" />
+  </use>
+
+</svg>
+  
+  
+</svg>
+
+
+
+
+
+
