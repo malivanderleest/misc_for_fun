@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("input").change(function(){
+    $("input").css("background-color", "yellow");
+  });
+
+  document.getElementById("add").addEventListener("click", update);
+  document.getElementById("subtract").addEventListener("click", update);
+  document.getElementById("multiply").addEventListener("click", update);
+  document.getElementById("divide").addEventListener("click", update);
+
+  function update() {
+    var x = document.getElementById("firstnumber").value;
+    var xx = parseFloat(x);
+    var y = document.getElementById("secondnumber").value;
+    var yy = parseFloat(y);
+
+    if(document.getElementById("add").checked){
+        var z = xx + yy;
+    }
+    else if(document.getElementById("subtract").checked){
+        var z = xx - yy;
+    }
+    else if(document.getElementById("multiply").checked){
+        var z = xx * yy;
+    }
+    else if(document.getElementById("divide").checked){
+        var z = xx / yy;
+    }
+
+    document.getElementById("answer").innerHTML = z;
+    }
+
+  $("input").keyup(function(){
+    update();
+     
+  });
+
+
+
+});
+</script>
+</head>
+<body>
+
+
+        <p>
+            <label for="firstnumber"> First number: </label>
+             <input type="number" name="firstnumber"  id="firstnumber" value=0 placeholder="first number" />
+        </p>
+        <p>
+            <label> Operation: </label>
+            <input type="radio" name="operation" onclick="update()" value="add" id="add" checked/> <label for="add">add</label>
+            <input type="radio" name="operation" onclick="update()" value="subtract" id="subtract"/> <label for="subtract">subtract</label>
+            <input type="radio" name="operation" onclick="update()" value="multiply" id="multiply"/> <label for="multiply">multiply</label> 
+            <input type="radio" name="operation" onclick="update()" value="divide" id="divide"/> <label for="divide">divide</label>
+        </p>  
+        <p>
+            <label for="secondnumber"> Second number: </label>
+            <input type="number" name="secondnumber" value=0 placeholder="second number" id="secondnumber" />
+        </p>
+        
+        
+        <p id="answer"></p>
+       
+   
+
+</body>
+</html>
